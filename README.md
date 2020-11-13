@@ -12,6 +12,6 @@ Liquidation is the process of selling a large number of shares of one stock sequ
 * We simulate trading and develop optimal trading strategy with practical constraints by using reinforcement learning method, which shows the capabilities of reinforcement learning methods in solving realistic liquidation problems.
 
  
-![screenshot][Multi-agent.PNG]
+![screenshot](Multi-agent.PNG)
 
 
