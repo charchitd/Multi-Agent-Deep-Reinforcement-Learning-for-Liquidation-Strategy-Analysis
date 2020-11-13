@@ -45,7 +45,4 @@ Cooperative and competitive relationships: if two agents are in cooperative rela
 Trading trajectory: comparing to independent training, introducing a competitor makes the host agent learn to adapt to new environment and sell all shares of stock in the first two days
 
 
-## Authors
-
-Wenhang Bao & Xiao-Yang Liu
 
